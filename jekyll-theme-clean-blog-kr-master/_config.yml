@@ -1,0 +1,24 @@
+title:              "the education system of german"
+tagline:            "education is important"
+email:              "rlaqudtjs817@gmail.com"
+description:        "What is the definition of education?
+                    Let's first know the  meaning of education and make changes."
+author:             "byeong sun kim"
+baseurl:            "/"
+url:                "https://도메인"
+locale:             "ko_KR"
+thumbnail:          "/img/blog thumbnail 2.png"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-paginate
