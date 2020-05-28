@@ -5,9 +5,32 @@
     <description>What is the definition of education? Let's first know the  meaning of education and make changes.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 19:01:49 +0900</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 19:01:49 +0900</lastBuildDate>
+    <pubDate>Thu, 28 May 2020 23:46:08 +0900</pubDate>
+    <lastBuildDate>Thu, 28 May 2020 23:46:08 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>정책 변화 과정 중에 발견된 문제와 해결방안. Willy Brandt의 교육정책</title>
+        <description>&lt;p&gt;독일을 보면 위치가 유럽에 있는 것을 볼 수 있다. 그러면 나라의 역사도 변화가 많았다는 것을 예상할 수 있고, 교육의 역사도 있을 것으로 예상된다.&lt;/p&gt;
+
+&lt;p&gt;유럽은 수 많은 변화가 있었고 특히 19세기에 현대 기술과 산업화로 인해서 새로운 학교 교육 시스템이 필요했다. 물론 독일도 유럽의 국가로 변화가 있었다.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2020 20:00:00 +0900</pubDate>
+        <link>http://localhost:4000//german-5/</link>
+        <guid isPermaLink="true">http://localhost:4000//german-5/</guid>
+        
+        <category>education</category>
+        
+        <category>Revolution</category>
+        
+        <category>system</category>
+        
+        <category>life</category>
+        
+        
+        <category>Germankr</category>
+        
+      </item>
     
       <item>
         <title>독일생활을 오래 한 김누리 교수님의 의견</title>
@@ -185,7 +208,7 @@
         <category>life</category>
         
         
-        <category>German/04</category>
+        <category>Germankr</category>
         
       </item>
     
@@ -288,7 +311,7 @@
         <category>life</category>
         
         
-        <category>German/03</category>
+        <category>German</category>
         
       </item>
     
@@ -405,7 +428,7 @@
         <category>life</category>
         
         
-        <category>German/02</category>
+        <category>German</category>
         
       </item>
     
