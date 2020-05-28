@@ -5,7 +5,7 @@ description:        "What is the definition of education?
                     Let's first know the  meaning of education and make changes."
 author:             "byeong sun kim"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://project2.today/"
 locale:             "ko_KR"
 thumbnail:          "/blog/img/blogthumbnail2.png"
 
