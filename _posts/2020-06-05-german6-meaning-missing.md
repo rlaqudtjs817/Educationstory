@@ -62,7 +62,7 @@ Korea education is the education of competition. we need to realise this is one 
 
 **It's  Korea school building.**
 
-![Korea](https://lh3.googleusercontent.com/proxy/eFhU_bFdPTba29xjVXyJKK-xFypIRHc7muvZvy5-tDc6R_17TD52cX2RGZwAu-HjlTcF9TbfeGWTbbQwSxiSoz2ojqzTzXc_esklnwuxwTcX8vqkfXg "Korea.")
+![Korea](https://cahvilentum.files.wordpress.com/2018/07/13.png "Korea.")
 
 
 
